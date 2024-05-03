@@ -1,1 +1,3 @@
 https://help.eclipse.org/2024-03/index.jsp
+link download:
+https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2024-03/R/eclipse-inst-jre-win64.exe
